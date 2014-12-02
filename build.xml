@@ -35,6 +35,7 @@
         <formatter type="plain" usefile="false"/>
         <test name="site.BootstrapTest"/>
       </junit>
+      <haha>
       
     </target>
 </project>
