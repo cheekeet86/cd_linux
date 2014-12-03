@@ -1,1 +1,1 @@
-ALTER TABLE Test ADD DATE date();
+ALTER TABLE Test ADD DATE date;
