@@ -3,4 +3,4 @@ INSERT INTO Test VALUES (7, 'This is another text', "1986-02-16");
 
 --//@UNDO
 
-DELETE FROM Test WHERE id IN (6,7);
+--DELETE FROM Test WHERE id IN (6,7);
