@@ -10,7 +10,7 @@
         <javac debug="true" debuglevel="lines,vars,source" destdir="classes" includeantruntime="false" includes="**/*" srcdir="sources">
             <classpath refid="class.path"/>
         </javac>
-    </target>
+    </target><haha>
     <target depends="compile" name="run">
         <echo message="Running on Linux..."/>
         <exec executable="pkill">
